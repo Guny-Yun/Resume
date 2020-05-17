@@ -10,9 +10,7 @@
 
 시니어 개발자가 되어도 겸손함과 배움의 자세를 잃지 않는 개발자가 되기를 목표하고 있습니다.
 
-- Email   : dbsrjs7687@gmail.com 
-
-  ​		    : dbsrjs7687@naver.com
+- Email   : dbsrjs7687@gmail.com , dbsrjs7687@naver.com
 
 - Github : https://github.com/Guny-Yun
 
