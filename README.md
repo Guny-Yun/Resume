@@ -44,14 +44,12 @@
 
 - 언어
   - Java
-  - Python
+  - JavaScript
   - jsp
   - SQL ( MySql )
 - 프레임워크
   - Vanilla Js
   - React.js
-  - Vue.js
-  - jQuery
   - MyBatis
   - Spring Boot
 - etc.
@@ -140,7 +138,6 @@
 - Server things...
 - Docker
 - Kubernetes
-- Vue.js
 - React Native
 - TypeScript
 - JPA
