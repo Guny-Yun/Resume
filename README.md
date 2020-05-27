@@ -12,7 +12,7 @@
 
 동료들과 함께 발전하는, 지금 모르더라도 원리를 이해하고자 노력하는, 끊임없이 성장하는 개발자가 되고 싶습니다.
 
-- Email   : dbsrjs7687@gmail.com , dbsrjs7687@naver.com
+- Email   : dbsrjs7687@gmail.com
 
 - Github : https://github.com/Guny-Yun
 
