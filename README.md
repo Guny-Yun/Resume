@@ -14,7 +14,6 @@
 
 - Email   : dbsrjs7687@gmail.com
 - Github : https://github.com/Guny-Yun
-- Blog : Velog 준비중입니다.
 
 ---
 
@@ -125,8 +124,8 @@
 ## 📜자격증
 
 - 정보처리기사
-- 토익스피킹 Lv.5 (최소 Lv.6을 따고 말겠다.)
-- SW역량 : IM (A+을 따고 말겠다.)
+- 토익스피킹 Lv.5 
+- SW역량 : IM
 
 ---
 
@@ -134,9 +133,8 @@
 
 #### @ 하고 있는 것
 
-- React.js (노마드 코더 강의 수강 中)
-- Vanilla Js (노마드 코더 강의 수강 中)
-- Kotlin (모바일 어플리케이션 관심, 유튜브로 강의 수강 中)
+- React.js
+- Vanilla Js
 
 #### @ 하고 싶은 것
 
@@ -145,7 +143,6 @@
 - Kubernetes
 - TypeScript
 - JPA
-- Data analysis
 - Endless(끝이 없다...)
 
 ---
