@@ -133,17 +133,15 @@
 
 #### @ 하고 있는 것
 
-- React.js
 - Vanilla Js
+- Java
 
 #### @ 하고 싶은 것
 
-- Server things...
 - Docker
 - Kubernetes
 - TypeScript
 - JPA
-- Endless(끝이 없다...)
 
 ---
 
