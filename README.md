@@ -1,4 +1,6 @@
-# **:pencil:** Guny's Resume
+# **:pencil:** Guny's Resume 
+
+GitHub Resume Link : https://github.com/Guny-Yun/Resume
 
 ## 소개
 
@@ -62,7 +64,7 @@
 
 ---
 
-## :hammer_and_wrench: 프로젝트  경험
+## :hammer_and_wrench: 프로젝트  경험(최근)
 
 
 
