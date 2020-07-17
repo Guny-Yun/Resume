@@ -32,7 +32,7 @@ GitHub Resume Link : https://github.com/Guny-Yun/Resume
 - Tips 16기 [ 2016.12 ~ 2017.3 ]
   - TipsSoft 주관 MicroSoft 지원, 지식 나눔 코딩 강좌
   - 교육생 : C, C++, MFC 이론 및 실습 교육 과정으로 개발자로서의 성장 발판을 다졌습니다.
-  - 당시 강좌 기록 정리 링크 : https://blog.naver.com/dbsrjs7687 (지금은 벨로그를 준비중입니다.)
+  - 당시 강좌 기록 정리 링크 : https://blog.naver.com/dbsrjs7687 (17년도 교육 기록 블로그)
 
 - 삼성 청년 소프트웨어 아카데미 (SSAFY) '2기' [ 2019.7.1 ~ 2020.6.30 ]
   - 삼성전자 주관 고용노동부 후원 개발자 양성 과정
