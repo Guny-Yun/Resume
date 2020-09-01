@@ -16,6 +16,7 @@ GitHub Resume Link : https://github.com/Guny-Yun/Resume
 
 - Email   : dbsrjs7687@gmail.com
 - Github : https://github.com/Guny-Yun
+- Blog : https://velog.io/@ygh7687
 
 ---
 
@@ -33,11 +34,14 @@ GitHub Resume Link : https://github.com/Guny-Yun/Resume
   - TipsSoft 주관 MicroSoft 지원, 지식 나눔 코딩 강좌
   - 교육생 : C, C++, MFC 이론 및 실습 교육 과정으로 개발자로서의 성장 발판을 다졌습니다.
   - 당시 강좌 기록 정리 링크 : https://blog.naver.com/dbsrjs7687 (17년도 교육 기록 블로그)
-
 - 삼성 청년 소프트웨어 아카데미 (SSAFY) '2기' [ 2019.7.1 ~ 2020.6.30 ]
   - 삼성전자 주관 고용노동부 후원 개발자 양성 과정
   - Java, Algorithm, Web을 기초로 6개월의 강의 수강과, 이후 6개월 간의 5개 자율 프로젝트를 수행하며, 많은 동료들과의 소통, 협업, 다양한 문제해결 등 현업 개발 프로세스를 경험했습니다. 
   - 개발자로서 가장 크게 성장하게 되었고, 배움과 개발에 대한 인사이트를 얻게 되었습니다.
+- 우아한 테크 러닝 3기 [ 2020.9.1 ~ ing ]
+  - 우아한형제들 프론트엔드 개발 그룹장 '김민태' 개발자/강사님의 강의에 선발되었습니다.
+  - TypeScript & React js 3년 미만 주니어 개발자 대상 강의
+  - Front - end 개발 관련 전반적인 교육
 
 ---
 
@@ -50,6 +54,7 @@ GitHub Resume Link : https://github.com/Guny-Yun/Resume
   - SQL ( MySql )
 - 프레임워크
   - React.js
+  - TypeScript
   - MyBatis
   - Spring Boot
   - Swagger API
