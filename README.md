@@ -6,7 +6,7 @@ GitHub Resume Link : https://github.com/Guny-Yun/Resume
 
 ![Guny](./whoami.jpg)
 
-### 주니어 개발자 윤건희입니다. (1992.8.7)
+### 개발자 윤건희입니다. (1992.8.7)
 
 현재 Web Service / Front-end / Back-end Programming 을 공부하고 있습니다.
 
@@ -17,6 +17,17 @@ GitHub Resume Link : https://github.com/Guny-Yun/Resume
 - Email   : dbsrjs7687@gmail.com
 - Github : https://github.com/Guny-Yun
 - Blog : https://velog.io/@ygh7687
+
+
+
+---
+
+<h3>👔경력</h3>
+
+- 농협은행 IT 부문 [ 22.03~ ]
+  - IT금융부 - IT수신팀 - 금융상품몰 개발 및 운영 업무
+
+
 
 ---
 
@@ -52,6 +63,7 @@ GitHub Resume Link : https://github.com/Guny-Yun/Resume
   - JavaScript
   - jsp
   - SQL ( MySql )
+  - Switft
 - 프레임워크
   - React.js
   - TypeScript
@@ -134,7 +146,6 @@ GitHub Resume Link : https://github.com/Guny-Yun/Resume
 - 정보처리기사
 - SQLD 개발자
 - 토익스피킹 Lv.5 
-- SW역량 : IM
 
 ---
 
@@ -153,37 +164,5 @@ GitHub Resume Link : https://github.com/Guny-Yun/Resume
 ## :rocket: 병역
 
 - 공군 제 728기 병장 만기 전역 [ 2013.5 ~ 2015.5 ]
-- 방공포병 [ 단거리유도무기운용 ]
-
----
-
-## :smile: 취미
-
-- 달리기 / 마라톤 10K  대회 참가
-- 노래 부르기 (버스킹, 녹음)
-- 전시회 보러가기
-- 영화 보기
-
----
-
-## :deciduous_tree: 저는요... (하고 싶은 말)
-
-1. 많은 사람들이 만족하는 서비스를 개발하고 싶습니다. 
-   - 개발이라 함은 사용자가 필요한 것을 만들어 내고, 불편함을 해소하고, 기존의 것을 개선시켜 나가는 것이라고 생각합니다.
-   - 많은 사람들이 제가 만든 서비스를 오랫동안 사용했으면 좋겠습니다.
-2. 팔로워 or 리더? 코치!
-   - 리더와 팔로워 사이에서 많은 고민을 했습니다. '나는 어디에 속하는가...', 저는 코치라고 생각합니다. 코치는 감독을 서포트하며, 팀원들과 감독이 200%의 기량을 발휘할 수 있도록 돕는 역할이라고 생각합니다. 
-
-   - 저는 리더가 제시하는 비젼과 목표를 이해하고 팀원들과 나누며, 팀원들의 고민과 의견을 모아 리더에게 표현하는 중간다리 역할을 좋아합니다.
-
-3. 공부하는 개발자
-   - 모르는 것을 아는 것은 매우 중요하다고 생각합니다. 
-   - 스스로에게 부족한 것이 무엇인지 끊임없이 묻고 새로운 것을 받아들이는 마음가짐은 개발자로서 필수 역량이라고 생각합니다.
-   - 모르는 것을 채워가는 과정을 즐기겠습니다.
-
-4. 듣는 개발자
-   - 전공자, 비전공자, 비개발자 등 다양한 사람들과 협업하며 기획과 개발을 했던 경험을 통해 듣는 행위의 중요함을 알게 되었습니다.
-   - 항상 마음과 귀를 열고, 겸손한 자세로 들으려고 노력하겠습니다.
-   
 
 ---
